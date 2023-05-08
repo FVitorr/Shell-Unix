@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/vitor/Documentos/Wordspace/Shell-Sistema_Operacionais/cmake-build-debug"
+			"value" : "/home/vitor/Documentos/Wordspace/Shell-Sistema_Operacionais (c\u00f3pia)/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -415,7 +415,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/vitor/Documentos/Wordspace/Shell-Sistema_Operacionais/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/home/vitor/Documentos/Wordspace/Shell-Sistema_Operacionais (c\u00f3pia)/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -475,7 +475,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/home/vitor/Documentos/Wordspace/Shell-Sistema_Operacionais"
+			"value" : "/home/vitor/Documentos/Wordspace/Shell-Sistema_Operacionais (c\u00f3pia)"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1007,7 +1007,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/vitor/Documentos/Wordspace/Shell-Sistema_Operacionais/cmake-build-debug"
+			"value" : "/home/vitor/Documentos/Wordspace/Shell-Sistema_Operacionais (c\u00f3pia)/cmake-build-debug"
 		},
 		{
 			"name" : "Shell_Sistema_Operacionais_IS_TOP_LEVEL",
@@ -1031,7 +1031,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/home/vitor/Documentos/Wordspace/Shell-Sistema_Operacionais"
+			"value" : "/home/vitor/Documentos/Wordspace/Shell-Sistema_Operacionais (c\u00f3pia)"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
